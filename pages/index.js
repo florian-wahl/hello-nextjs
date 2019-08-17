@@ -5,7 +5,7 @@ import Nav from '../components/nav'
 
 const Home = () => (
 <div>
-    <p>Hello Katy - How are you doing? :)</p>
+    <p>Hello Katie - How are you doing? :)</p>
 </div>
 );
 
